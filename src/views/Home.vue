@@ -93,6 +93,7 @@ import Footer from '@/components/Footer.vue'
 }
 
 .hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7));
   background-size: cover;
   background-position: center;
   height: 80vh;
